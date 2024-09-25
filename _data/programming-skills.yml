@@ -1,11 +1,27 @@
-- name: HTML5/CSS3
+- name: C/C++
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: Desktop Development
+  percentage: 90
+  color: Purple
 
-- name: Python
-  percentage: 70
-  color: secondary
+
+- name: Virtual/Physical Memory
+  percentage: 80
+  color: Gold
+
+
+- name: Windows Kernel Development
+  percentage: 60
+  color: Cyan
+
+
+- name: Reverse Engineering
+  percentage: 50
+  color: Pink
+
+
+
+
+

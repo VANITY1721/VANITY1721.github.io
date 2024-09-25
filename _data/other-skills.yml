@@ -1,7 +1,16 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Photoshop
+  percentage: 60
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: CAD
+  percentage: 50
   color: success
+  
+- name: mechanical work
+  percentage: 90
+  color: Magenta
+
+  
+- name: electrical work
+  percentage: 50
+  color: Maroon
