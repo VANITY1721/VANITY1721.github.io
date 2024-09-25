@@ -1,26 +1,22 @@
-- 
-name: C/C++
+- name: C/C++
   percentage: 90
-  color: danger
+  color: info
 
 - name: Desktop Development
   percentage: 90
-  color: "#800080" #Purple
-
+  color: info
 
 - name: Virtual/Physical Memory
   percentage: 80
-  color: "#FFD700" #Gold
-
+  color: info
 
 - name: Windows Kernel Development
   percentage: 60
-  color: "#00FFFF" #Cyan
-
+  color: info
 
 - name: Reverse Engineering
   percentage: 50
-  color: "#FFC0CB" #Pink
+  color: info
 
 
 

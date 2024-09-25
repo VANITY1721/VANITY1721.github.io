@@ -1,16 +1,22 @@
+
+- name: Automotive Work
+  percentage: 90
+  color: info
+
+  
+- name: mechanical work
+  percentage: 90
+  color: info
+  
+
 - name: Photoshop
   percentage: 60
   color: info
 
 - name: CAD
   percentage: 50
-  color: success
-  
-- name: mechanical work
-  percentage: 90
-  color: Magenta
-
+  color: info
   
 - name: electrical work
-  percentage: 50
-  color: Maroon
+  percentage: 40
+  color: info
