@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Vanity1721
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                     Called up Eliantte 📞     ,     flawless diamonds 💎     ,     then I PEED IN ‘EM!✨
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
@@ -26,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Vanity Solutions
-  image             : https://imgur.com/oIFKHMh.jpg
+  image             : /assets/images/vanity.png
  # behance           : your_username
 # dribbble          : your_username
  # email             : username@domain.com
